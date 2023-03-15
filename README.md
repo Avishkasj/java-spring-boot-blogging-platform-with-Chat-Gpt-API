@@ -3,7 +3,7 @@ This is a simple blogging platform built using Java Spring Boot that allows user
 <br>
 <h2>Collaborators</h2>
 -- Nayana Daham [Undergraduate UOK] --<br>
--- Avishka Supun Jayasooriya [undergraduate UOR] --<br>
+-- Avishka Supun Jayasooriya [Undergraduate UOR] --<br>
 <br>
 <h2>Features</h2>
 - User authentication and authorization using Spring Security.<br>
